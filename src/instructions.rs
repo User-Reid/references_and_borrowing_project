@@ -2,10 +2,10 @@
 Let's model a road trip!
  
 Define a `start_trip` function that creates and returns
-a String of "The plan is..."
+a String of "The plan is..."✅
  
 Invoke the `start_trip` function in `main` and save its
-return value to a `trip` variable.
+return value to a `trip` variable.✅
  
 We want to pass the String to three separate functions
 that will mutate the String without transferring ownership.
